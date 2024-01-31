@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 2em;
+}
+
+.main-content {
+    max-width: 800px;
+    margin: 2em auto;
+    padding: 0 1em;
+}
+
+.contact-form {
+    max-width: 600px;
+    margin: 2em auto;
+    padding: 1em;
+    background-color: #f4f4f4;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
